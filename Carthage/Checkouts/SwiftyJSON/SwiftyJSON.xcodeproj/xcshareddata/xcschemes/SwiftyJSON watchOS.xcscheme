@@ -7,31 +7,17 @@
       buildImplicitDependencies = "YES">
       <BuildActionEntries>
          <BuildActionEntry
-            buildForTesting = "NO"
+            buildForTesting = "YES"
             buildForRunning = "YES"
             buildForProfiling = "YES"
             buildForArchiving = "YES"
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "52D6D97B1BEFF229002C0205"
-               BuildableName = "SwiftLocation.framework"
-               BlueprintName = "SwiftLocation-iOS"
-               ReferencedContainer = "container:SwiftLocation.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "NO"
-            buildForRunning = "NO"
-            buildForProfiling = "NO"
-            buildForArchiving = "NO"
-            buildForAnalyzing = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "52D6D9851BEFF229002C0205"
-               BuildableName = "SwiftLocation-iOS Tests.xctest"
-               BlueprintName = "SwiftLocation-iOS Tests"
-               ReferencedContainer = "container:SwiftLocation.xcodeproj">
+               BlueprintIdentifier = "E4D7CCDE1B9465A700EE7221"
+               BuildableName = "SwiftyJSON.framework"
+               BlueprintName = "SwiftyJSON watchOS"
+               ReferencedContainer = "container:SwiftyJSON.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -43,15 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "52D6D97B1BEFF229002C0205"
-            BuildableName = "SwiftLocation.framework"
-            BlueprintName = "SwiftLocation-iOS"
-            ReferencedContainer = "container:SwiftLocation.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -68,10 +45,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "52D6D97B1BEFF229002C0205"
-            BuildableName = "SwiftLocation.framework"
-            BlueprintName = "SwiftLocation-iOS"
-            ReferencedContainer = "container:SwiftLocation.xcodeproj">
+            BlueprintIdentifier = "E4D7CCDE1B9465A700EE7221"
+            BuildableName = "SwiftyJSON.framework"
+            BlueprintName = "SwiftyJSON watchOS"
+            ReferencedContainer = "container:SwiftyJSON.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -86,10 +63,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "52D6D97B1BEFF229002C0205"
-            BuildableName = "SwiftLocation.framework"
-            BlueprintName = "SwiftLocation-iOS"
-            ReferencedContainer = "container:SwiftLocation.xcodeproj">
+            BlueprintIdentifier = "E4D7CCDE1B9465A700EE7221"
+            BuildableName = "SwiftyJSON.framework"
+            BlueprintName = "SwiftyJSON watchOS"
+            ReferencedContainer = "container:SwiftyJSON.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
